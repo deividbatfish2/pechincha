@@ -1,0 +1,28 @@
+{
+  "name": "pechincha",
+  "version": "1.0.0",
+  "description": "Busca por ofertas de aluguel e retorna os melhores preços dentro de uma determinada região",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deividbatfish2/pechincha.git"
+  },
+  "keywords": [
+    "typescript",
+    "restfy",
+    "mongoose",
+    "mocha"
+  ],
+  "author": "Deivid Teixeira",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/deividbatfish2/pechincha/issues"
+  },
+  "homepage": "https://github.com/deividbatfish2/pechincha#readme",
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}
